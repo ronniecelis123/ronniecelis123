@@ -6,7 +6,7 @@
 
 ### Creative :D
 
-Building immersive digital experiences through modern web development and cinematic 3D design.
+
 
 <br>
 
