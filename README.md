@@ -87,7 +87,7 @@ Cinematic modeling, rendering, lighting and visual experimentation using Blender
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,blender,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,vscode" />
 
 </div>
 
