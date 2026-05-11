@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A5CFF&center=true&vCenter=true&width=800&lines=Hello+World;Frontend+Developer;Blender+Artist;Creative+Technologist;Building+Interactive+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A5CFF&center=true&vCenter=true&width=800&lines=Hello+World;" />
 
 </div>
 
