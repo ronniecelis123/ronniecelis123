@@ -4,7 +4,7 @@
 
 # RONNIE CELIS
 
-### Frontend Developer • 3D Artist • Creative Coder
+### Creative :D
 
 Building immersive digital experiences through modern web development and cinematic 3D design.
 
